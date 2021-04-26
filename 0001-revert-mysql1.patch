@@ -1,0 +1,25 @@
+From a6113bc4d4bfa0ffd4a25540527d1d2da7c048a2 Mon Sep 17 00:00:00 2001
+From: guanbin <2976467818@qq.com>
+Date: Tue, 27 Apr 2021 04:12:36 +0800
+Subject: [PATCH] revert mysql1
+
+---
+ readme.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/readme.txt b/readme.txt
+index d13a27f..d00f8cd 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -5,4 +5,6 @@ Git tracks changes of files.
+ Creating a new branch is quick and simple.
+ test test test test
+ one two one one
+-mysql cmd
+\ No newline at end of file
++mysql1 cmd
++one two one one
++
+-- 
+2.31.1.windows.1
+
